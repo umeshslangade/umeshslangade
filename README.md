@@ -22,7 +22,7 @@ I'm an automation architect at **Capgemini**, where I own the intelligent automa
 
 | 🏅 Certified | 🚀 Impact | 🤖 Now building |
 |:---:|:---:|:---:|
-| AZ-305 · AI-103 · AZ-104 | 30+ automations · 100+ hrs/month saved · 2 FTE freed | AI agents with the Claude Agent SDK on Azure |
+| AZ-305 · AI-103 · AZ-104 | 100+ automations · 100+ hrs/month saved..counting.. | AI agents with the Claude Agent SDK on Azure |
 
 ---
 
